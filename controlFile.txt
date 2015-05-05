@@ -1,0 +1,17 @@
+obj obj_files/sphere.obj
+obj obj_files/sphere.obj
+t 2 0 0
+obj obj_files/sphere.obj
+t 4 0 0
+obj obj_files/sphere.obj
+t 0 2 0
+obj obj_files/sphere.obj
+t 2 2 0
+obj obj_files/sphere.obj
+t 4 2 0
+obj obj_files/sphere.obj
+t 0 4 0
+obj obj_files/sphere.obj
+t 2 4 0
+obj obj_files/sphere.obj
+t 4 4 0
